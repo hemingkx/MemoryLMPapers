@@ -21,3 +21,7 @@
 - [22ACL] [$\infty$-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
 - [22NAACL] [LaMemo: Language Modeling with Look-Ahead Memory](https://arxiv.org/abs/2204.07341)
 
+### Zero-shot Inference
+
+- [22Arxiv] [Nearest Neighbor Zero-Shot Inference](https://arxiv.org/abs/2205.13792)
+
